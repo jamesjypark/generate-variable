@@ -29,4 +29,4 @@ const numToVariable = num => {
   }
 };
 
-export default numToVariable;
+module.exports = numToVariable;
