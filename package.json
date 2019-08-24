@@ -1,6 +1,6 @@
 {
   "name": "generate-variable",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "NPM Module to generate unique alphanumeric variable names",
   "main": "index.js",
   "scripts": {
