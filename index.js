@@ -45,3 +45,8 @@ export const variableToNum = str => {
   }
   return sum;
 };
+
+module.exports = {
+  numToVariable,
+  variableToNum
+};
